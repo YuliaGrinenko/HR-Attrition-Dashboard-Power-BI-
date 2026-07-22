@@ -35,7 +35,6 @@ The dataset contains information on **1,470 employees**, including:
 - Years at Company
 - Overtime
 - Attrition
-
 ---
 
 ## 🛠 Tools & Technologies
@@ -43,19 +42,18 @@ The dataset contains information on **1,470 employees**, including:
 - Power BI Desktop
 - Power Query
 - DAX
-  
 ---
 
 ## 📈 Dashboard Features
 
-### KPI Cards
+# KPI Cards
 
 - 👥 Total Employees
 - 🚪 Employees Left
 - 📉 Attrition Rate
 - ⏳ Average Tenure of Employees Who Left
-
-### Visualisations
+  
+# Visualisations
 
 - 📊 Attrition Rate by Department
 - 🕒 Attrition by Overtime
@@ -64,13 +62,11 @@ The dataset contains information on **1,470 employees**, including:
 - 💰 Employees Left by Income Band
 - 📈 Attrition by Years at the Company
 
-### Interactive Features
+# Interactive Features
 
 - 🎛 Department slicer
-
 ---
-
-## 🧮 DAX Measures
+# 🧮 DAX Measures
 
 The dashboard includes custom DAX measures such as:
 
@@ -78,10 +74,8 @@ The dashboard includes custom DAX measures such as:
 - Attrition Rate
 - Average Tenure (Leavers)
 - Monthly Income 
-
 ---
-
-## 💡 Key Insights
+# 💡 Key Insights
 
 - Overall employee attrition rate is **16.1%**.
 - Sales has the highest attrition rate among all departments.
@@ -90,6 +84,5 @@ The dashboard includes custom DAX measures such as:
 - Laboratory Technicians and Sales Executives experience the highest number of employees leaving.
 - Lower income bands have the highest number of attrition cases.
 - Employees working overtime account for the majority of attrition cases
-
 ---
 
